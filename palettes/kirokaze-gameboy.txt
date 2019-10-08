@@ -1,0 +1,9 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Kirokaze Gameboy
+;Description: 
+;Colors: 4
+FF332c50
+FF46878f
+FF94e344
+FFe2f3e4
